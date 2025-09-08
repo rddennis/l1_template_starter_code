@@ -33,7 +33,7 @@ starter_template = """
 <body>
   <h1>Welcome, User!</h1>
   <p>Good Morning!</p>
-  <p>The time is: 09:45 AM</p>
+  <p>This page was developed at 09:45 AM.</p>
 </body>
 </html>
 
